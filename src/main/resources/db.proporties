@@ -1,0 +1,8 @@
+# PostgresSQL properties
+db.driver=org.postgresql.Driver
+db.url=jdbc:postgresql://localhost:5432/smartex
+db.password=root21
+
+# Hibernate properties
+hibernate.show_sql=true
+hibernate.hbm2ddl.auto=update
